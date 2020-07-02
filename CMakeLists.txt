@@ -274,7 +274,6 @@ else()
         -fPIC
         -Wall
         -DHAVE_ALLOCA_H
-        -DHAVE_ATTRIBUTE_VISIBILITY
         -DHAVE_PTHREAD_AFFINITY_NP
         -DDONT_USE_CPU_ALLOC_SIZE
     )
